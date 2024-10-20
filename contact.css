@@ -1,0 +1,141 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 0.5;
+    background-color: #000000;
+    
+}
+
+header {
+    background: hsl(0, 0%, 0%);
+    color: #c09a81;;
+    padding: 10px 0;
+    text-align: right;
+    font-size: x-large;
+    text-decoration: underline;
+ }
+
+
+
+
+
+
+
+.img {
+    height: 300px;
+    width: 300px;
+    float: inline-end;
+    right: 0%;
+    left:65px;
+    top: 25%;
+    position: absolute;
+    border-radius: 20%;
+}
+.location{
+    height: 80px;
+    width: 80px;
+  float: inline-end;
+    right: 60%;
+ position: relative;
+    top: 50px;
+  
+    
+}
+.phone{
+    height: 80px;
+    width: 80px;
+  float: inline-end;
+
+left:472px;
+ position:absolute;
+    top: 310px;
+  border-radius: 30%;
+
+}
+.email{
+    height: 80px;
+    width: 80px;
+  float: inline-end;
+
+left:472px;
+ position:absolute;
+    top: 420px;
+  border-radius: 30%;
+
+}
+
+.logo{
+    border-radius: 50%;
+  position: absolute;
+  left: 2%;
+  width: 90px;
+  top: 4px ;
+    
+    float: inline-end;
+   
+
+}
+
+div {
+    
+     -webkit-text-fill-color:#af7f5e;
+    font-weight: bolder;
+    font-size:80px;
+    font-family: Old English Text MT;
+    text-align: center;
+    padding: 30px;
+    background-color: #000000;
+}
+.first{
+    -webkit-text-fill-color:#af7f5e;
+    font-weight: bolder;
+    font-size:50px;
+    font-family: Old English Text MT;
+    text-align: center;
+    padding: 30px;
+    background-color: #000000;
+}
+.second{
+    -webkit-text-fill-color:#b8e2f2;
+    font-weight: bolder;
+    font-size:40px;
+    font-family:Monotype corsiva;
+    text-align:right;
+    position:absolute;
+    right: 35%;
+   list-style: none;
+    background-color: #000000;
+    line-height: 55px;
+}
+
+.third{
+    -webkit-text-fill-color:#b8e2f2;
+    font-weight: bolder;
+    font-size:40px;
+    font-family:Monotype corsiva;
+    text-align:right;
+    position:absolute;
+    right: 45%;
+   list-style: none;
+    background-color: #000000;
+    line-height: 55px;
+    top: 285px;
+}
+
+.fourth{
+    -webkit-text-fill-color:#b8e2f2;
+    font-weight: bolder;
+    font-size:40px;
+    font-family:Monotype corsiva;
+    text-align:right;
+    position:absolute;
+    right: 42%;
+   list-style: none;
+    background-color: #000000;
+    line-height: 55px;
+    top: 385px;
+}
+
+
+
